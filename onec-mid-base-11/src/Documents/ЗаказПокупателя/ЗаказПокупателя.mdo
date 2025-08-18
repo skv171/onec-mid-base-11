@@ -185,6 +185,7 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <multiLine>true</multiLine>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:StringValue">
@@ -194,7 +195,7 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="df725e95-1322-47bd-9655-161d53bcd5a9">
-    <name>СогласованнаяСкидка</name>
+    <name>Sim_СогласованнаяСкидка</name>
     <synonym>
       <key>ru</key>
       <value>Согласованная скидка</value>
